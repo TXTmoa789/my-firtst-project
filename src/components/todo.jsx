@@ -10,6 +10,8 @@ const Todo = () => {
 	console.log(input)
 	console.log(todos)
 
+	// yo chai naya line
+
 	// Local Storage Setup
 	// const getLocalTodos = () => {
 	// 	if (localStorage.getItem('todos') === null) {
